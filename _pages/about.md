@@ -1,21 +1,26 @@
 ---
 layout: page
 title: About me
+headshot: /assets/images/headshot.jpg
+file_document_path: /assets/docs/FreemanCV.pdf
 ---
+<style>
+img {
+  width: 30%;
+}
+</style>
+<img src="{{ page.headshot }}" alt="Me" class="center">
 
-## Ultra - Super fast Jekyll theme test
+## Andrew C. Freeman, computer science educator
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+I'm a Computer Science PhD student at the University of North Carolina at Chapel Hill. Before that, I got a B.S. in Computer Science and Mathematics from Samford University in Birmingham, Alabama. And before that, I grew up near Dallas, Texas.
 
-### Key features
+My research focuses on multimedia systems. I'm working on bringing an innovative, asynchronous camera sensor to fruition and hoping it will change the paradigm for deep-space astronomy.
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+Upon graduation, I plan to begin a teaching-oriented career at a small, liberal arts school.
+
+This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages.
+
+### Academic CV
+
+<object data="{{ page.file_document_path }}" width="750" height="1000" type='application/pdf'/>

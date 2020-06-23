@@ -21,6 +21,13 @@ Upon graduation, I plan to begin a teaching-oriented career at a small, liberal 
 
 This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages.
 
-### Academic CV
+## Contact
+My CV is available upon request.
 
-<object data="{{ page.file_document_path }}" width="750" height="1000" type='application/pdf'/>
+E-mail me for professional reasons: <a href="mailto:acfreeman@cs.unc.edu">acfreeman@cs.unc.edu</a>
+
+E-mail me for personal reasons: <a href="mailto:acfreemantx@gmail.com">acfreemantx@gmail.com</a>
+
+<!-- ### Academic CV
+
+<object data="{{ page.file_document_path }}" width="750" height="1000" type='application/pdf'/> -->

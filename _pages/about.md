@@ -24,11 +24,13 @@ This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">U
 ## Contact
 My CV is available upon request.
 
-Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
-
 E-mail me for professional reasons: <a href="mailto:acfreeman@cs.unc.edu">acfreeman@cs.unc.edu</a>
 
 E-mail me for personal reasons: <a href="mailto:acfreemantx@gmail.com">acfreemantx@gmail.com</a>
+
+Follow my work on <a href="https://github.com/andrewcfreeman" target="_blank">GitHub</a>
+
+Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
 
 <!-- ### Academic CV
 

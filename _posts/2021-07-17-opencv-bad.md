@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Ruining a Linux install with OpenCV
 

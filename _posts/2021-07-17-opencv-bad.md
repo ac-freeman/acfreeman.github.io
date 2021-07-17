@@ -6,7 +6,7 @@ description: A short rant about OpenCV
 image: /assets/images/posts/opencv-bad/logo.png
 ---
 <meta name="image" property="og:image" content="{{ page.image }}">
-<img src="{{ page.image }}" alt="OpenCV logo" class="center">
+<img src="{{ page.image }}" alt="OpenCV logo" class="center" style='height: 30%; width: 30%; object-fit: contain'>
 
 OpenCV is a behemoth of a library. It's really useful, but my goodness is it a pain to work with sometimes.
 

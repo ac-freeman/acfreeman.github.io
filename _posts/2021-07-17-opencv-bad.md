@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Ruining a Linux installation with OpenCV
+title: Ruining a Linux Installation with OpenCV
 description: A short rant about OpenCV
 image: /assets/images/posts/opencv-bad/logo.png
 ---

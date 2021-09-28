@@ -13,7 +13,7 @@ A living CV, with version control.
 ## A running list of links, interesting or otherwise
 
 ### Research
-- [Samsung Electronics Puts Forward a Vision To ‘Copy and Paste’ the Brain on Neuromorphic Chips] (https://news.samsung.com/global/samsung-electronics-puts-forward-a-vision-to-copy-and-paste-the-brain-on-neuromorphic-chips)
+- [Samsung Electronics Puts Forward a Vision To ‘Copy and Paste’ the Brain on Neuromorphic Chips](https://news.samsung.com/global/samsung-electronics-puts-forward-a-vision-to-copy-and-paste-the-brain-on-neuromorphic-chips)
 
 ### Christianity
 - [The FAQS: What You Should Know About SBC Resolutions](https://www.thegospelcoalition.org/article/know-sbc-resolutions/)

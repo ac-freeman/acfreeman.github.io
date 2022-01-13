@@ -5,7 +5,7 @@ description: >-
   Announcing a research grant through a joint program of the NSA and NC State
 summary: >-
   Announcing a research grant through a joint program of the NSA and NC State
-category: Publication
+category: Funding
 image: 
 published: true
 ---

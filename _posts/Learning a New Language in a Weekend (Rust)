@@ -1,7 +1,14 @@
 ---
-published: true
+layout: post
+title: Learning a New Language in a Weekend (Rust)
+description: When I gave up on C++
+image: /assets/images/posts/rust/rust-logo-256x256
+terminal: /assets/images/posts/rust/rust-logo-256x256
+vsraw: /assets/images/posts/rust/rust-logo-256x256
+vssmart: /assets/images/posts/rust/rust-logo-256x256
 ---
-![rust-logo-256x256.png]({{site.baseurl}}/rust-logo-256x256.png)
+<meta name="image" property="og:image" content="{{ page.image }}">
+<img src="{{ page.image }}" class="center">
 
 ## The state of things
 

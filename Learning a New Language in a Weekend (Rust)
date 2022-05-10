@@ -1,0 +1,27 @@
+---
+published: false
+---
+![rust-logo-256x256.png]({{site.baseurl}}/rust-logo-256x256.png)
+
+## The state of things
+
+85% of my time programming over the last few years has been in C++, 10% in Python, and 5% in MATLAB. The thing is, I don't like programming in any of these languages.
+
+MATLAB is great for working on quick image processing tasks and big matrix operations. I used it quite a lot for a couple classes, and for some early prototyping of neural network designs. However, it would be far too slow for the video-oriented tasks I work on.
+
+Python is... a language I loathe, to put it bluntly. While it's great for rapid prototyping, data science, and machine learning, it's only fast when Python code isn't running. That is, you have to call on all sorts of packages which use underlying C code in order to achieve serious performance. That feels wrong to me, and it makes debugging a nightmare. I generally only use Python for machine learning programs with PyTorch, or for quick data transformation tasks.
+
+C++ is fast, but it can be a nightmare to program in. You're exposed to all sorts of memory bugs that can hide out for months and be extremely difficult to track down. Using #include statements is a nightmare without a package manager, especially when moving between machines with different library versions installed. CMake makes this a bit better, but getting that to work reliably is also a pain. The language is frustrating to write in, and it often got in the way of me making progress on my work.
+
+My favorite language I've ever used is Elixir, a functional language for back-end systems designed for massive concurrency and resiliency. Unfortunately, Elixir is ill-suited to my research, so I haven't touched it in a few years.
+
+## Enter Rust
+
+A few months 
+
+A colleague of mine badgered me about a language called Rust for upwards of a year. He was constantly espousing 
+
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

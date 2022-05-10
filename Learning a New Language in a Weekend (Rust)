@@ -17,11 +17,8 @@ My favorite language I've ever used is Elixir, a functional language for back-en
 
 ## Enter Rust
 
-A few months 
+A few months ago, I got fed up with C++. I wanted a change. I wanted to enjoy programming again, and feel empowered to work on the research itself, rather than have to spend so much time chasing down bugs and optimizations. A colleague of mine had badgered me about a language called Rust for upwards of a year, so I decided to check it out. My wife had a weekend shift at her work, so I was working through the weekend, too. I started reading the [Rust Book](https://doc.rust-lang.org/book/) on a Saturday morning.
 
-A colleague of mine badgered me about a language called Rust for upwards of a year. He was constantly espousing 
+I quickly learned that Rust can be as performant as C code, while providing some seriously impressive guarentees about memory safety through a borrow checker. Every piece of data has an owner, and there can only be one mutable reference to a value at time. This makes concurrency much safer, since the compiler strictly enforces these rules. Parallelizing a piece of code can be much more difficult in some cases than in C++, sometimes requiring clever organizations of struct members, but it's a worthwhile tradeoff for the memory guarantees. I'd rather spend my time writing safe code than debugging unsafe code. Furthermore, it has a simple, modern package manager provide by the Cargo system.
 
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+By Monday morning, two days after starting to read the documentation, I had rewritten the bulk of my exisiting code base for asynchronous camera emulation entirely in Rust. It was that easy. The kicker? It was already faster than my C++/CUDA implementation. Realizing that was the moment of my conversion. For the last couple of months since then, I've done all my further development in Rust, and worked to further optimize it as I learn new features of the language and discover helpful packages. Admittedly, there are some things that continue to cause me headaches (maybe I'll write about them later), but all in all this has made my work life much more enjoyable. I hope to release my new Rust codebase sometime this summer, once I get it packaged more nicely.

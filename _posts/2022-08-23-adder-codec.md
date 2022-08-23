@@ -2,13 +2,13 @@
 layout: post
 title: ADΔER Codec
 description: My new library for event-based video representations
-image: {{site.baseurl}}/_posts/out_16bit_2_c10.jpg
-terminal: {{site.baseurl}}/_posts/out_16bit_2_c10.jpg
-vsraw: {{site.baseurl}}/_posts/out_16bit_2_c10.jpg
-vssmart: {{site.baseurl}}/_posts/out_16bit_2_c10.jpg
+image: /assets/images/posts/rust/out_16bit_2_c10.jpg
+terminal: /assets/images/posts/rust/out_16bit_2_c10.jpg
+vsraw: /assets/images/posts/rust/out_16bit_2_c10.jpg
+vssmart: /assets/images/posts/rust/out_16bit_2_c10.jpg
 ---
-<!-- <meta name="image" property="og:image" content="{{ page.image }}"> -->
-<!-- <img src="{{ page.image }}" class="center" width="128" height="128"> -->
+<meta name="image" property="og:image" content="{{ page.image }}">
+<img src="{{ page.image }}" class="center" width="384" height="216">
 ## ADΔER Codec
 
 ![out_16bit_2_c10.jpg]({{site.baseurl}}/_posts/out_16bit_2_c10.jpg)

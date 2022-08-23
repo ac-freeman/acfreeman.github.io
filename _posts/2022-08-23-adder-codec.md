@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADΔER Codec
+title: ADDER Codec
 description: My new library for event-based video representations
 image: /assets/images/posts/rust/out_16bit_2_c10.jpg
 terminal: /assets/images/posts/rust/out_16bit_2_c10.jpg

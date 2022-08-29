@@ -12,7 +12,8 @@ A living CV, with version control.
 
 ## A running list of links, interesting or otherwise
 
-### Research
+### Technology
+-8/29/22: [Simulating an Entire Car Engine (yes, it makes noise)](https://www.youtube.com/watch?v=RKT-sKtR970)
 - 9/30/21: [Intel Advances Neuromorphic with Loihi 2, New Lava Software Framework and New Partners](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html#gs.d6xts8)
 - [Samsung Electronics Puts Forward a Vision To ‘Copy and Paste’ the Brain on Neuromorphic Chips](https://news.samsung.com/global/samsung-electronics-puts-forward-a-vision-to-copy-and-paste-the-brain-on-neuromorphic-chips)
 

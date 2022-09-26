@@ -19,6 +19,7 @@ A living CV, with version control.
 - [Samsung Electronics Puts Forward a Vision To ‘Copy and Paste’ the Brain on Neuromorphic Chips](https://news.samsung.com/global/samsung-electronics-puts-forward-a-vision-to-copy-and-paste-the-brain-on-neuromorphic-chips)
 
 ### Christianity
+- [J.D. Greear: Should You List Your Own Pronouns..?](https://jdgreear.com/podcasts/46826/)
 - [The FAQS: What You Should Know About SBC Resolutions](https://www.thegospelcoalition.org/article/know-sbc-resolutions/)
 - [Inerrancy and Evangelicals: The Challenge for a New Generation](https://www.thegospelcoalition.org/article/inerrancy-evangelicals/)
 

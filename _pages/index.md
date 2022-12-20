@@ -8,9 +8,11 @@ published: true
 
   <!-- <h1 class="post-title">{{ site.description }}</h1> -->
 
-A living CV, with version control.
+# Hello
 
-## A running list of links, interesting or otherwise
+This site is home to my research and programming updates, plus the basic information you may need to know about me (see [About](https://acfreeman.dev/about)). I update my [LinkedIn](https://www.linkedin.com/in/acfreeman/) more regularly, but here you can see the most important stuff in one neat package. I keep the website UI minimal because I don't want it to be bloated or flashy, and I'd rather spend my time working on systems research than writing JavaScript for a site very few people will see :blush:
+
+## Interesting Links
 
 ### Technology
 - 9/26/22: [Linus Torvalds: Rust will go into Linux 6.1](https://www.zdnet.com/article/linus-torvalds-rust-will-go-into-linux-6-1/)
@@ -24,7 +26,7 @@ A living CV, with version control.
 - [Inerrancy and Evangelicals: The Challenge for a New Generation](https://www.thegospelcoalition.org/article/inerrancy-evangelicals/)
 
 ### Music
-- 6/26/21: [Mood Valiant - Hiatus Kaiyote (Spotify)](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG?si=i85bbCaMQjevYckwqA9myw&dl_branch=1) An album I've impatiently waited 6 years for. Across the buttery smootheness of "And We Go Gentle" and "Red Room," the more traditionally wild tracks "Get Sun" and "Chivalry Is Not Dead," the Scotch snaps in "All The Words We Don't Say," the dissonant and oddly syncopated "Rose Water" and "Sparkle Tape Break Up," the emotional ballad "Stone Or Lavender"... there's so much different stuff to love here.
+- 6/26/21: [Mood Valiant - Hiatus Kaiyote (Spotify)](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG?si=i85bbCaMQjevYckwqA9myw&dl_branch=1)
 - [★ Jazz and things playlist (Spotify)](https://open.spotify.com/playlist/43EEnlpxXMjQ2aPZVUQL15?si=743fe02876cf4988) My go-to playlist, basically all the music I regularly enjoy. >200 hours and counting.
 - <a href="https://www.youtube.com/watch?v=gzFAR6aN20g&feature=youtu.be">Tigran Hamasyan Quintet - VARDAVAR (Montreux Jazz Fest. 2014)</a>
-- [Thundercat, JD Beck, DOMi, and Ariana Grande - Them Changes](https://www.youtube.com/watch?v=SxKsIBkvRsA&ab_channel=gettnastyyonins) The one song with Ariana Grande I can stand to listen to.
+- [Thundercat, JD Beck, DOMi, and Ariana Grande - Them Changes](https://www.youtube.com/watch?v=SxKsIBkvRsA&ab_channel=gettnastyyonins)

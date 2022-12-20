@@ -12,7 +12,7 @@ img {
 </style>
 <img src="{{ page.headshot }}" alt="Me" class="center">
 
-## Andrew C. Freeman, computer science educator
+## Andrew C. Freeman, computer science researcher and educator
 
 I'm a Computer Science PhD student at the University of North Carolina at Chapel Hill. Before that, I got a B.S. in Computer Science and Mathematics from Samford University in Birmingham, Alabama. And before that, I grew up near Dallas, Texas.
 
@@ -25,13 +25,22 @@ This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">U
 ## Contact
 My CV is available upon request.
 
-E-mail me for professional reasons: <a href="mailto:acfreeman@cs.unc.edu">acfreeman@cs.unc.edu</a>
+E-mail me for research reasons: <a href="mailto:acfreeman@cs.unc.edu">acfreeman@cs.unc.edu</a>
+
+E-mail me for work reasons (e.g., consulting): <a href="mailto:acfreeman.work@gmail.com">acfreeman.work@gmail.com</a>
 
 E-mail me for personal reasons: <a href="mailto:acfreemantx@gmail.com">acfreemantx@gmail.com</a>
 
-Follow my work on <a href="https://github.com/andrewcfreeman" target="_blank">GitHub</a>
+Follow my development work on <a href="https://github.com/andrewcfreeman" target="_blank">GitHub</a>
 
 Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
+
+## Mentoring
+I mentor high school research projects through the <a href="https://www.polygence.org/">Polygence</a> platform.
+
+Past students:
+
+Jyotsna Raghavan, _Cornell University Class of 2027_
 
 ## Statement of Values
 As a covenant member of the Summit Church, I hold to the [Baptist Faith and Message](https://bfm.sbc.net/bfm2000/).

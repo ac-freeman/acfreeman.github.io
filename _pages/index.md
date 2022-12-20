@@ -10,7 +10,7 @@ published: true
 
 # Hello
 
-This site is home to my research and programming updates, plus the basic information you may need to know about me (see [About](https://acfreeman.dev/about)). I update my [LinkedIn](https://www.linkedin.com/in/acfreeman/) more regularly, but here you can see the most important stuff in one neat package. I keep the website UI minimal because I don't want it to be bloated or flashy, and I'd rather spend my time working on systems research than writing JavaScript for a site very few people will see :blush:
+This site is home to my research and programming updates, plus the basic information you may need to know about me (see [About](https://acfreeman.dev/about)). I update my [LinkedIn](https://www.linkedin.com/in/acfreeman/) more regularly, but here you can see the most important stuff in one neat package. I keep the website UI minimal because I don't want it to be bloated or flashy, and I'd rather spend my time working on systems research than writing JavaScript for a site very few people will see :)
 
 ## Interesting Links
 

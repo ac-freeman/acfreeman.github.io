@@ -31,7 +31,7 @@ E-mail me for work reasons (e.g., consulting): <a href="mailto:acfreeman.work@gm
 
 E-mail me for personal reasons: <a href="mailto:acfreemantx@gmail.com">acfreemantx@gmail.com</a>
 
-Follow my development work on <a href="https://github.com/andrewcfreeman" target="_blank">GitHub</a>
+Follow my development work on <a href="https://github.com/ac-freeman" target="_blank">GitHub</a>
 
 Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
 

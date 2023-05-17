@@ -35,12 +35,29 @@ Follow my development work on <a href="https://github.com/ac-freeman" target="_b
 
 Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
 
-## Mentoring
+## Mentoring & Collaboration
+
+### Undergraduate/Graduate Students
+During my time at UNC, I have had the pleasure of working with and mentoring many other students/academics in research. Some of those students include:
+
+- Eric Schneider (MS student)
+- Noah Green (BS student)
+- Finn Stewart James (BS student)
+- Chris Burgess (MS student)
+- Felipe Chiavegatto (BS student)
+- Rahul Patel (PhD student, [Zylka Lab](http://zylkalab.org/people))
+
+In addition, I led four teams of undergraduate learning assistants during my first two years of graduate school.
+
+### Polygence (High School Students)
 I mentor high school research projects through the <a href="https://www.polygence.org/">Polygence</a> platform.
 
-Past students:
+Students mentored for full research projects:
 
-Jyotsna Raghavan, _Cornell University Class of 2027_
+- Jyotsna Raghavan, _Cornell University Class of 2027_
+- Rishit Shiramshetti
+
+Through the Polygence Pathfinders program, I have also mentored 10+ high school students in discussing the world computer science studies, job opportunities, research, and college applications.
 
 ## Statement of Values
 As a covenant member of the Summit Church, I hold to the [Baptist Faith and Message](https://bfm.sbc.net/bfm2000/).

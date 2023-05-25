@@ -43,4 +43,11 @@ Thanks for scanning my QR code! Below are some useful links for my work.
 
 [PDF](https://drive.google.com/file/d/1g414ntLWTZ4_bsmmE_EvRtgtPOhGqqcF/view?usp=share_link) - [Code](https://github.com/ac-freeman/adder-codec-rs)
 
+### Info in Layman's Terms
+
 [ADΔER Wiki](https://github.com/ac-freeman/adder-codec-rs/wiki)
+
+---
+# Personal links
+
+[GitHub](https://github.com/ac-freeman/) - [LinkedIn](https://linkedin.com/in/acfreeman) - [Academic CV](https://drive.google.com/file/d/1EoqKgkYMAMp1CfoeXBlxmkQXJbwdovkJ/view?usp=sharing)

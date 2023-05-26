@@ -50,6 +50,6 @@ Thanks for scanning my QR code! Below are some useful links for my work.
 ---
 # Personal links
 
-[GitHub](https://github.com/ac-freeman/) - [LinkedIn](https://linkedin.com/in/acfreeman) - [Academic CV](https://drive.google.com/file/d/1EoqKgkYMAMp1CfoeXBlxmkQXJbwdovkJ/view?usp=sharing)
+[Email](mailto:acfreeman@cs.unc.edu) - [GitHub](https://github.com/ac-freeman/) - [LinkedIn](https://linkedin.com/in/acfreeman) - [Academic CV](https://drive.google.com/file/d/1EoqKgkYMAMp1CfoeXBlxmkQXJbwdovkJ/view?usp=sharing)
 
-[acfreeman@cs.unc.edu](mailto:acfreeman@cs.unc.edu)
+

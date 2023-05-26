@@ -35,13 +35,13 @@ Thanks for scanning my QR code! Below are some useful links for my work.
 ### Main Paper Track
 *An Asynchronous Intensity Representation for Framed and Event Video Sources*
 
-[PDF](https://drive.google.com/file/d/1e8cySf7yaqAN3UKKFkdwZnLk8cDbfyVD/view?usp=sharing) - [Code](https://github.com/ac-freeman/adder-codec-rs)
+[Paper](https://drive.google.com/file/d/1e8cySf7yaqAN3UKKFkdwZnLk8cDbfyVD/view?usp=sharing) - [Slides]() - [Code](https://github.com/ac-freeman/adder-codec-rs)
 
 
 ### Doctoral Symposium
 *The ADΔER Framework: Tools for Event Video Representations*
 
-[PDF](https://drive.google.com/file/d/1g414ntLWTZ4_bsmmE_EvRtgtPOhGqqcF/view?usp=share_link) - [Code](https://github.com/ac-freeman/adder-codec-rs)
+[Paper](https://drive.google.com/file/d/1g414ntLWTZ4_bsmmE_EvRtgtPOhGqqcF/view?usp=share_link) - [Slides]() - [Poster]() - [Code](https://github.com/ac-freeman/adder-codec-rs)
 
 ### Info in Layman's Terms
 

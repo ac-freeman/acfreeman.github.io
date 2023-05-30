@@ -41,7 +41,7 @@ Thanks for scanning my QR code! Below are some useful links for my work.
 ### Doctoral Symposium
 *The ADΔER Framework: Tools for Event Video Representations*
 
-[Paper](https://drive.google.com/file/d/1g414ntLWTZ4_bsmmE_EvRtgtPOhGqqcF/view?usp=share_link) - [Slides]() - [Poster]() - [Code](https://github.com/ac-freeman/adder-codec-rs)
+[Paper](https://drive.google.com/file/d/1g414ntLWTZ4_bsmmE_EvRtgtPOhGqqcF/view?usp=share_link) - [Slides](test_presentation/index.html) - [Poster]() - [Code](https://github.com/ac-freeman/adder-codec-rs)
 
 ### Info in Layman's Terms
 

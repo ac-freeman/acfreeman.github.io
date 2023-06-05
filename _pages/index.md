@@ -1,32 +1,71 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About me
+headshot: /assets/images/headshot.jpg
+file_document_path: /assets/docs/FreemanCV.pdf
 published: true
 ---
+<style>
+img {
+  width: 30%;
+}
+</style>
+<img src="{{ page.headshot }}" alt="Me" class="center">
 
-<!-- <article class="post index" role="article"> -->
+## Andrew C. Freeman, computer science researcher and educator
 
-  <!-- <h1 class="post-title">{{ site.description }}</h1> -->
+I'm a Computer Science PhD student at the University of North Carolina at Chapel Hill. Before that, I got a B.S. in Computer Science and Mathematics from Samford University in Birmingham, Alabama. And before that, I grew up near Dallas, Texas.
 
-# Hello
+My research focuses on multimedia systems. I'm exploring asynchronous event representations for video, event compression, and event applications.
 
-This site is home to my research and programming updates, plus the basic information you may need to know about me (see [About](https://acfreeman.dev/about)). I update my [LinkedIn](https://www.linkedin.com/in/acfreeman/) more regularly, but here you can see the most important stuff in one neat package. I keep the website UI minimal because I don't want it to be bloated or flashy, and I'd rather spend my time working on systems research than writing JavaScript for a site very few people will see :)
+Upon graduation, I plan to begin a teaching-oriented career at a small, liberal arts school.
 
-## Interesting Links
+This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages.
 
-### Technology
-- 9/26/22: [Linus Torvalds: Rust will go into Linux 6.1](https://www.zdnet.com/article/linus-torvalds-rust-will-go-into-linux-6-1/)
-- 8/29/22: [Simulating an Entire Car Engine (yes, it makes noise)](https://www.youtube.com/watch?v=RKT-sKtR970)
-- 9/30/21: [Intel Advances Neuromorphic with Loihi 2, New Lava Software Framework and New Partners](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html#gs.d6xts8)
-- [Samsung Electronics Puts Forward a Vision To ‘Copy and Paste’ the Brain on Neuromorphic Chips](https://news.samsung.com/global/samsung-electronics-puts-forward-a-vision-to-copy-and-paste-the-brain-on-neuromorphic-chips)
+## Contact
+My CV is available [here](https://drive.google.com/file/d/1EoqKgkYMAMp1CfoeXBlxmkQXJbwdovkJ/view?usp=sharing).
 
-### Christianity
-- [J.D. Greear: Should You List Your Own Pronouns..?](https://jdgreear.com/podcasts/46826/)
-- [The FAQS: What You Should Know About SBC Resolutions](https://www.thegospelcoalition.org/article/know-sbc-resolutions/)
-- [Inerrancy and Evangelicals: The Challenge for a New Generation](https://www.thegospelcoalition.org/article/inerrancy-evangelicals/)
+E-mail me for research reasons: <a href="mailto:acfreeman@cs.unc.edu">acfreeman@cs.unc.edu</a>
 
-### Music
-- 6/26/21: [Mood Valiant - Hiatus Kaiyote (Spotify)](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG?si=i85bbCaMQjevYckwqA9myw&dl_branch=1)
-- [★ Jazz and things playlist (Spotify)](https://open.spotify.com/playlist/43EEnlpxXMjQ2aPZVUQL15?si=743fe02876cf4988) My go-to playlist, basically all the music I regularly enjoy. >200 hours and counting.
-- <a href="https://www.youtube.com/watch?v=gzFAR6aN20g&feature=youtu.be">Tigran Hamasyan Quintet - VARDAVAR (Montreux Jazz Fest. 2014)</a>
-- [Thundercat, JD Beck, DOMi, and Ariana Grande - Them Changes](https://www.youtube.com/watch?v=SxKsIBkvRsA&ab_channel=gettnastyyonins)
+E-mail me for work reasons (e.g., consulting): <a href="mailto:acfreeman.work@gmail.com">acfreeman.work@gmail.com</a>
+
+E-mail me for personal reasons: <a href="mailto:acfreemantx@gmail.com">acfreemantx@gmail.com</a>
+
+Follow my development work on <a href="https://github.com/ac-freeman" target="_blank">GitHub</a>
+
+Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
+
+## Mentoring & Collaboration
+
+### Undergraduate/Graduate Students
+During my time at UNC, I have had the pleasure of working with and mentoring many other students/academics in research. Some of those students include:
+
+- Eric Schneider (MS student)
+- Noah Green (BS student)
+- Finn Stewart James (BS student)
+- Chris Burgess (MS student)
+- Felipe Chiavegatto (BS student)
+- Rahul Patel (PhD student, [Zylka Lab](http://zylkalab.org/people))
+
+In addition, I led four teams of undergraduate learning assistants during my first two years of graduate school.
+
+### Polygence (High School Students)
+I mentor high school research projects through the <a href="https://www.polygence.org/">Polygence</a> platform.
+
+Students mentored for full research projects:
+
+- Jyotsna Raghavan, _Cornell University Class of 2027_
+- Rishit Shiramshetti
+
+Through the Polygence Pathfinders program, I have also mentored 10+ high school students in discussing the world of computer science studies, job opportunities, research, and college applications.
+
+## Statement of Values
+As a covenant member of the Summit Church, I hold to the [Baptist Faith and Message](https://bfm.sbc.net/bfm2000/).
+
+I believe in the sanctity of all life, including the lives of the unborn. I believe there is objective morality and that the ultimate purpose of our lives is to know God and make him known.
+
+I regularly support the Summit Church and the International Mission Board with my charitable donations.
+
+<!-- ### Academic CV
+
+<object data="{{ page.file_document_path }}" width="750" height="1000" type='application/pdf'/> -->

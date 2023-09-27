@@ -59,7 +59,7 @@ Students mentored for full research projects:
 - Sam Newmark
 - Raghav Sareen
 
-Through the Polygence Pathfinders program, I have also mentored 10+ high school students in discussing the world of computer science studies, job opportunities, research, and college applications.
+Through the Polygence Pathfinders program, I have also met individually with 30+ high school students to discuss the world of computer science studies, job opportunities, research, and college applications.
 
 ## Statement of Values
 As a covenant member of the Summit Church, I hold to the [Baptist Faith and Message](https://bfm.sbc.net/bfm2000/).

@@ -56,6 +56,8 @@ Students mentored for full research projects:
 
 - Jyotsna Raghavan, _Cornell University Class of 2027_
 - Rishit Shiramshetti
+- Sam Newmark
+- Raghav Sareen
 
 Through the Polygence Pathfinders program, I have also mentored 10+ high school students in discussing the world of computer science studies, job opportunities, research, and college applications.
 

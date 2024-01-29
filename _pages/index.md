@@ -18,7 +18,7 @@ I'm a Computer Science PhD student at the University of North Carolina at Chapel
 
 My research focuses on multimedia systems. I'm exploring asynchronous event representations for video, event compression, and event applications.
 
-Upon graduation, I plan to begin a teaching-oriented career at a small, liberal arts school.
+Upon graduation, I plan to begin an academic career at a university.
 
 This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages.
 

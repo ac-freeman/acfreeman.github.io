@@ -14,11 +14,11 @@ img {
 
 ## Andrew C. Freeman, computer science researcher and educator
 
-I'm a Computer Science PhD student at the University of North Carolina at Chapel Hill. Before that, I got a B.S. in Computer Science and Mathematics from Samford University in Birmingham, Alabama. And before that, I grew up near Dallas, Texas.
+I'm a Computer Science PhD candidate at the University of North Carolina at Chapel Hill. Before that, I got a B.S. in Computer Science and Mathematics from Samford University in Birmingham, Alabama. And before that, I grew up near Dallas, Texas.
 
 My research focuses on multimedia systems. I'm exploring asynchronous event representations for video, event compression, and event applications.
 
-Upon graduation, I plan to begin an academic career at a university.
+In August 2024, I will join the faculty of Baylor University as an Assistant Professor of Computer Science.
 
 This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages.
 
@@ -34,6 +34,8 @@ E-mail me for personal reasons: <a href="mailto:acfreemantx@gmail.com">acfreeman
 Follow my development work on <a href="https://github.com/ac-freeman" target="_blank">GitHub</a>
 
 Add me on <a href="https://www.linkedin.com/in/acfreeman/" target="_blank">LinkedIn</a>
+
+I don't use Twitter/X or Mastadon.
 
 ## Mentoring & Collaboration
 
@@ -58,6 +60,7 @@ Students mentored for full research projects:
 - Rishit Shiramshetti
 - Sam Newmark
 - Raghav Sareen
+- Austin Han
 
 Through the Polygence Pathfinders program, I have also met individually with 30+ high school students to discuss the world of computer science studies, job opportunities, research, and college applications.
 

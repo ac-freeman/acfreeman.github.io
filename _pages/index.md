@@ -20,7 +20,7 @@ My research focuses on multimedia systems. I'm exploring asynchronous event repr
 
 In August 2024, I will join the faculty of Baylor University as an Assistant Professor of Computer Science.
 
-This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages.
+This site was built on Jekyll with the <a href="https://github.com/ronv/ultra">Ultra</a> theme, hosted on GitHub Pages. I don't update this site very often.
 
 ## Contact
 My CV is available [here](https://drive.google.com/file/d/1EoqKgkYMAMp1CfoeXBlxmkQXJbwdovkJ/view?usp=sharing).
